@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou o Marlon! 👋
 
-<!--
-**marlon-iac/marlon-iac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu perfil no GitHub! Sou um entusiasta de automação de redes, e aqui compartilho meus projetos e aprendizados.
 
-Here are some ideas to get you started:
+## Sobre mim
+- 💼 Analista de Redes em uma empresa de tecnologia
+- 🌱 Atualmente estou aprendendo automações de redes com Ansible
+- ⚡ Curiosidade: Viajar de moto nas horas livres!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Minhas habilidades
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-007ACC?style=flat&logo=cisco&logoColor=white)
+- Automação de infraestrutura
+- Gerenciamento de redes
+
+## Contato
+- 📫 LinkedIn: [marlonoliveira](https://www.linkedin.com/in/marlonoliveira/)
+
+## Stats
+![Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlon-iac&show_icons=true&theme=radical)
