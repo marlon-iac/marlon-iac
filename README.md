@@ -5,7 +5,7 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou um entusiasta de automação de redes,
 ## Sobre mim
 - 💼 Analista de Redes em uma empresa de tecnologia
 - 🌱 Atualmente estou aprendendo automações de redes com Ansible
-- ⚡ Curiosidade: Viajar de moto nas horas livres!
+- ⚡ Curiosidade: Nas horas livres, você me encontra pilotando uma moto por aí!
 
 ## Minhas habilidades
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
