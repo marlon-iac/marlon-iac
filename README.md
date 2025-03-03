@@ -10,11 +10,16 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou um entusiasta de automação de redes,
 ## Minhas habilidades
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-007ACC?style=flat&logo=cisco&logoColor=white)
-- Automação de infraestrutura
-- Gerenciamento de redes
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- Automação de Redes
+
 
 ## Contato
-- 📫 LinkedIn: [marlonoliveira](https://www.linkedin.com/in/marlonoliveira/)
+<div>
+<a href="https://www.linkedin.com/in/marlonoliveira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 ## Stats
 ![Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlon-iac&show_icons=true&theme=radical)
+  
+
